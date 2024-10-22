@@ -1,7 +1,4 @@
 # Student Database System
-Here is a suggested README for your Student Database project:
-
-# Student Database System
 
 ## Overview
 The Student Database System is a console application for managing student records. The system allows users to add, view, edit, calculate CGPA, delete student records, and navigate through a menu of options.
@@ -50,12 +47,7 @@ The Student Database System is a console application for managing student record
 - Md. Tahmidur Rahman Khan
 - Iftekhar Ahmed Sourav
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 - Bangladesh University of Professionals (BUP)
 - Faculty of Science & Technology
 - Department of Computer Science & Engineering
-
-Feel free to customize this README further based on your project's specific needs and additional details.
